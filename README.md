@@ -1,6 +1,6 @@
 # Hi, I'm Ryan! 👋
 
-I'm a **Software Engineering Co-op student at Concordia University** (Class of 2028) with hands-on experience in **software development, data visualization, and teaching**.  
+I'm a **Software Engineering Co-op student at Concordia University** with hands-on experience in **software development, data visualization, and teaching**.  
 I enjoy building scalable applications, simplifying complex ideas through code and content, and creating practical tools that make an impact.
 
 ---
