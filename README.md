@@ -11,6 +11,7 @@ I enjoy building scalable applications, simplifying complex ideas through code a
 - 🧰 Skilled in **Java, Python, C#, C, JavaScript, HTML, CSS, Clojure, and Erlang**  
 - 🧩 Experienced with **React, Node.js, JavaFX, JUnit, Salesforce, Git, and REST APIs**  
 - 🌐 Trilingual: **English, French, Arabic**
+- 🍣 Sushi Enjoyer 
 
 ---
 
