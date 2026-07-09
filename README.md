@@ -1,4 +1,4 @@
-# Hi, I'm Ryan
+# 👋 Hi, I'm Ryan
 
 I'm a Software Engineering co-op student at Concordia University. I like building things
 people actually use, and I like explaining the hard parts until they stop being hard.
