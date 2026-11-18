@@ -1,24 +1,38 @@
-# Hi, I'm Ryan
+<div align="center">
 
-I'm a Software Engineering co-op student at Concordia University in Montreal. I like building things people actually use, and explaining the hard parts until they stop being hard.
+# Ryan Helou
+
+**Software Engineering co-op student at Concordia University in Montreal.**
+<br>
+I like building things people actually use, and explaining the hard parts until they stop being hard.
+
+<a href="https://www.linkedin.com/in/ryan-helou-a9bab62ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan_Helou-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+</div>
+
+<br>
 
 ## What I've done
 
-- **Ubisoft**: Software Developer Intern (Sep–Dec 2025), building internal tools and web interfaces.
-- **Anti-Microbe Distribution**: co-founder (2020–2025). I ran operations, contracts, and customer relations alongside school.
-- **Checkmark Tutorials**: designed and recorded a full Applied Ordinary Differential Equations course, and answer students' questions directly.
+| Where | What |
+|---|---|
+| **Ubisoft** | Software Developer Intern, Sep–Dec 2025. Built internal tools and web interfaces. |
+| **Anti-Microbe Distribution** | Co-founder, 2020–2025. Ran operations, contracts and customer relations alongside school. |
+| **Checkmark Tutorials** | Designed and recorded a full Applied Ordinary Differential Equations course, and answer students' questions directly. |
 
 ## What I build
 
-Mostly web apps and tools I want to use myself: trackers, timers, small games, and data projects. My main languages are Java, Python, C#, C, and JavaScript.
+Mostly web apps and tools I want to use myself: trackers, timers, small games and data projects.
+
+<img alt="Java" src="https://img.shields.io/badge/Java-24292f?style=flat-square"> <img alt="Python" src="https://img.shields.io/badge/Python-24292f?style=flat-square"> <img alt="C#" src="https://img.shields.io/badge/C%23-24292f?style=flat-square"> <img alt="C" src="https://img.shields.io/badge/C-24292f?style=flat-square"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-24292f?style=flat-square">
 
 ## Education
 
-- B.Eng. Software Engineering (Co-op), Concordia University, 2024–2028
-- DCS in Computer Science & Mathematics, Vanier College, 2022–2024
+| School | Program |
+|---|---|
+| **Concordia University** | B.Eng. Software Engineering (Co-op), 2024–2028 |
+| **Vanier College** | DCS in Computer Science & Mathematics, 2022–2024 |
 
 ## Outside of code
 
-I played on Vanier's chess team, volunteer as a sound technician, and compete in martial arts. I speak English, French, and Arabic, and I will happily talk about sushi for as long as you let me.
-
-Find me on [LinkedIn](https://www.linkedin.com/in/ryan-helou-a9bab62ba/).
+I played on Vanier's chess team, volunteer as a sound technician, and compete in martial arts. I speak English, French and Arabic, and I will happily talk about sushi for as long as you let me.
