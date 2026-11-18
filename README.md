@@ -16,7 +16,10 @@ I like building things people actually use, and explaining the hard parts until 
 
 | Where | What |
 |---|---|
-| **Ubisoft** | Software Developer Intern, Sep–Dec 2025. Built internal tools and web interfaces. |
+| **EY** | Incoming co-op on the AI & Data team, May–Aug 2027. |
+| **Workleap** | Software Engineer Intern, May–Aug 2026. Shipped features and internal tooling in ShareGate Migrate, a product companies use to move their Microsoft 365 data. |
+| **ChessIQ** | Founder, 2026. Built and ran a chess game-review site that reached 100+ active users, including professional coaches. |
+| **Ubisoft** | Software Developer Intern, Sep–Dec 2025. Automated internal workflows and built web interfaces. |
 | **Anti-Microbe Distribution** | Co-founder, 2020–2025. Ran operations, contracts and customer relations alongside school. |
 | **Checkmark Tutorials** | Designed and recorded a full Applied Ordinary Differential Equations course, and answer students' questions directly. |
 
@@ -24,7 +27,7 @@ I like building things people actually use, and explaining the hard parts until 
 
 Mostly web apps and tools I want to use myself: trackers, timers, small games and data projects.
 
-<img alt="Java" src="https://img.shields.io/badge/Java-24292f?style=flat-square"> <img alt="Python" src="https://img.shields.io/badge/Python-24292f?style=flat-square"> <img alt="C#" src="https://img.shields.io/badge/C%23-24292f?style=flat-square"> <img alt="C" src="https://img.shields.io/badge/C-24292f?style=flat-square"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-24292f?style=flat-square">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-24292f?style=flat-square"> <img alt="Java" src="https://img.shields.io/badge/Java-24292f?style=flat-square"> <img alt="Python" src="https://img.shields.io/badge/Python-24292f?style=flat-square"> <img alt="C#" src="https://img.shields.io/badge/C%23-24292f?style=flat-square"> <img alt="C" src="https://img.shields.io/badge/C-24292f?style=flat-square"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-24292f?style=flat-square">
 
 ## Education
 
