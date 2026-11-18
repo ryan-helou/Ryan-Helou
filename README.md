@@ -2,7 +2,7 @@
 
 # Ryan Helou
 
-**Software Engineering co-op student at Concordia University in Montreal.**
+**Software engineer in Montreal, building products while studying Software Engineering at Concordia.**
 <br>
 I like building things people actually use, and explaining the hard parts until they stop being hard.
 
@@ -16,7 +16,7 @@ I like building things people actually use, and explaining the hard parts until 
 
 | Where | What |
 |---|---|
-| **EY** | Incoming co-op on the AI & Data team, May–Aug 2027. |
+| **EY** | Joining the AI & Data team, May–Aug 2027. |
 | **Workleap** | Software Engineer Intern, May–Aug 2026. Shipped features and internal tooling in ShareGate Migrate, a product companies use to move their Microsoft 365 data. |
 | **ChessIQ** | Founder, 2026. Built and ran a chess game-review site that reached 100+ active users, including professional coaches. |
 | **Ubisoft** | Software Developer Intern, Sep–Dec 2025. Automated internal workflows and built web interfaces. |
