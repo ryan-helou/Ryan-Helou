@@ -4,6 +4,8 @@
 
 <img alt="I build products people actually use." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=620&height=34&lines=I+build+products+people+actually+use.;ChessIQ%3A+250%2B+active+users%2C+pro+coaches+included.;Shipped+code+at+Ubisoft+and+Workleap.;Joining+EY's+AI+%26+Data+team%2C+summer+2027.">
 
+<img alt="ChessIQ users: 250+" src="https://img.shields.io/badge/ChessIQ_users-250%2B-24292f?style=for-the-badge"> <img alt="Public projects: 40" src="https://img.shields.io/badge/Public_projects-40-24292f?style=for-the-badge"> <img alt="Internships: Ubisoft, Workleap, EY" src="https://img.shields.io/badge/Internships-Ubisoft%2C_Workleap%2C_EY-24292f?style=for-the-badge">
+
 <a href="https://www.linkedin.com/in/ryan-helou-a9bab62ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan_Helou-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
@@ -14,25 +16,33 @@
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/chessiq.png" alt="ChessIQ" width="100%">
+
 **ChessIQ**<br>
 A chess game-review platform with 250+ active users, including professional coaches, that shows players exactly where they lose points.
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/ryan-helou/Trifecta"><img src="assets/trifecta.png" alt="Trifecta" width="100%"></a>
+
 **[Trifecta](https://github.com/ryan-helou/Trifecta)**<br>
-A triathlon training app used by many athletes that builds and adapts a day-by-day plan for 55 real races.
+A triathlon training app used by many athletes that builds and adapts a day-by-day plan for 55 real races.<br><sub><a href="https://amatri-production.up.railway.app">Live app</a> &nbsp;·&nbsp; <a href="https://github.com/ryan-helou/Trifecta">Code</a></sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/ryan-helou/NeuralFight"><img src="assets/neuralfight.png" alt="NeuralFight" width="100%"></a>
+
 **[NeuralFight](https://github.com/ryan-helou/NeuralFight)**<br>
 Machine-learning models trained on every past UFC event that predict who wins each fight and how.
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/ryan-helou/MacMemoryMonitor"><img src="assets/mac-memory-monitor.png" alt="Mac Memory Monitor" width="100%"></a>
 
 **[Mac Memory Monitor](https://github.com/ryan-helou/MacMemoryMonitor)**<br>
 A native Mac menu bar app that shows why your Mac is slowing down and fixes it in one click.
@@ -55,7 +65,7 @@ A native Mac menu bar app that shows why your Mac is slowing down and fixes it i
 ## What I build with
 
 <p align="center">
-  <img alt="Tools I use" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,redis,prisma,docker,vercel,java,spring,python,cs,c,swift,unity,git&perline=10">
+  <img alt="Tools I use" src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,redis,docker,python,java,swift&perline=10">
 </p>
 
 ## Education
