@@ -19,19 +19,39 @@
 <td width="33%" valign="top">
 
 **ChessIQ**<br>
-A chess game-review platform I founded and ran: it imported every game from Chess.com and Lichess, ran it through Stockfish 18 and showed players where they lose points. 250+ active users, including professional coaches.
+A chess game-review platform with 250+ active users, including professional coaches, that shows players exactly where they lose points.
 
 </td>
 <td width="33%" valign="top">
 
 **[Trifecta](https://github.com/ryan-helou/Trifecta)**<br>
-A triathlon training app that builds and adapts a day-by-day plan for 55 real races, synced with Strava and Apple Health. Used by many athletes for their triathlon training.
+A triathlon training app used by many athletes that builds and adapts a day-by-day plan for 55 real races.
 
 </td>
 <td width="33%" valign="top">
 
 **[NeuralFight](https://github.com/ryan-helou/NeuralFight)**<br>
-Machine-learning models trained on every past UFC event that predict who wins each fight and how, then compare that with the betting odds.
+Machine-learning models trained on every past UFC event that predict who wins each fight and how.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**[Mac Memory Monitor](https://github.com/ryan-helou/MacMemoryMonitor)**<br>
+A native Mac menu bar app that shows why your Mac is slowing down and fixes it in one click.
+
+</td>
+<td width="33%" valign="top">
+
+**[RunTracker](https://github.com/ryan-helou/RunTracker)**<br>
+A speedrun timer for Mario games on the Wii that splits automatically by listening to the game's sounds.
+
+</td>
+<td width="33%" valign="top">
+
+**[Masterpiece](https://github.com/ryan-helou/Masterpiece)**<br>
+A 2D speedrun platformer where every level takes place inside a famous painting.
 
 </td>
 </tr>
