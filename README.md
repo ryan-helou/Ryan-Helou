@@ -1,16 +1,12 @@
-<img width="100%" alt="Ryan Helou" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:16243a,100:1f6feb&height=210&section=header&text=Ryan%20Helou&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Software%20engineer%20%C2%B7%20Montreal&descSize=18&descAlignY=58&animation=fadeIn">
+<img width="100%" alt="Ryan Helou" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:16243a,100:1f6feb&height=150&section=header&text=Ryan%20Helou&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Software%20engineer%20%C2%B7%20Montreal&descSize=17&descAlignY=66&animation=fadeIn">
 
 <div align="center">
 
-<img alt="I build products people actually use." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=620&height=44&lines=I+build+products+people+actually+use.;ChessIQ%3A+250%2B+active+users%2C+pro+coaches+included.;Shipped+code+at+Ubisoft+and+Workleap.;Joining+EY's+AI+%26+Data+team%2C+summer+2027.">
-
-<br>
+<img alt="I build products people actually use." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=620&height=34&lines=I+build+products+people+actually+use.;ChessIQ%3A+250%2B+active+users%2C+pro+coaches+included.;Shipped+code+at+Ubisoft+and+Workleap.;Joining+EY's+AI+%26+Data+team%2C+summer+2027.">
 
 <a href="https://www.linkedin.com/in/ryan-helou-a9bab62ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan_Helou-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
-
-<br>
 
 ## Featured builds
 
