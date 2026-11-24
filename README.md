@@ -41,7 +41,7 @@ Machine-learning models trained on every past UFC event that predict who wins ea
 
 | Where | What | When |
 |---|---|---|
-| **EY** | AI & Data team | May–Aug 2027 |
+| **EY** | Intern on the AI & Data team | May–Aug 2027 |
 | **Workleap** | Software Engineer Intern. Shipped features and internal tooling in ShareGate Migrate, a product companies use to move their Microsoft 365 data. | May–Aug 2026 |
 | **ChessIQ** | CEO & Founder. Built and ran a chess game-review platform that reached 100+ active users, including professional coaches. | Mar–Jul 2026 |
 | **Ubisoft** | Software Developer Intern. Automated internal workflows and built web interfaces. | Sep–Dec 2025 |
