@@ -7,7 +7,6 @@
 <br>
 
 <a href="https://www.linkedin.com/in/ryan-helou-a9bab62ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan_Helou-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://chessiq.io"><img alt="ChessIQ" src="https://img.shields.io/badge/Live-chessiq.io-24292f?style=for-the-badge"></a>
 
 </div>
 
@@ -21,42 +20,42 @@ I'm a software engineer studying at Concordia. I build tools I want to use mysel
 <tr>
 <td width="50%" valign="top">
 
-**[ChessIQ](https://chessiq.io)**<br>
-Reviews every chess game you play online and shows where you lose points. 100+ active users, including professional coaches.
+**ChessIQ**<br>
+A chess game-review platform I founded and ran: it imported every game from Chess.com and Lichess, ran it through Stockfish 18 and showed players where they lose points. 100+ active users, including professional coaches.
 
 </td>
 <td width="50%" valign="top">
 
 **[Trifecta](https://github.com/ryan-helou/Trifecta)**<br>
-A triathlon training app that builds and adapts a day-by-day plan for 55 real races, synced with Strava and Apple Health.
+A triathlon training app that builds and adapts a day-by-day plan for 55 real races, synced with Strava and Apple Health. Nearly 400 commits.
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
+
+**[HaloLabs](https://github.com/ryan-helou/HaloLabs)**<br>
+Turns six guided face photos into a personal grooming plan with AI, never a rating. Paid plans through Stripe, and a background job queue built so a crash can never lose a request.
+
+</td>
+<td width="50%" valign="top">
 
 **[NeuralFight](https://github.com/ryan-helou/NeuralFight)**<br>
-Predicts who wins every UFC fight and how, trained on every past UFC event, and compares it with the betting odds.
-
-</td>
-<td valign="top">
-
-**[Mac Memory Monitor](https://github.com/ryan-helou/MacMemoryMonitor)**<br>
-A menu bar app that shows why your Mac is slowing down and fixes it in one click. About 50 MB, under 1% CPU.
+Machine-learning models trained on every past UFC event that predict who wins each fight and how, then compare that with the betting odds.
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**[RunTracker](https://github.com/ryan-helou/RunTracker)**<br>
-A speedrun timer for three Mario games on the Wii, with 34 categories and auto-splits that listen for the game's sounds.
+**[AEBC Attendance](https://github.com/ryan-helou/AEBC-Attendance)**<br>
+The check-in app a church uses every week: volunteers check people in live across devices, and leaders see who hasn't come back so someone can reach out.
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-**[Masterpiece](https://github.com/ryan-helou/Masterpiece)**<br>
-A 2D speedrun platformer where every level takes place inside a famous painting, timed to the millisecond.
+**[Jobify](https://github.com/ryan-helou/Jobify)**<br>
+My own job-search engine: it scanned hundreds of company career pages 12 times a day, ranked every internship posting and sent the best ones to Slack and Telegram.
 
 </td>
 </tr>
@@ -64,14 +63,14 @@ A 2D speedrun platformer where every level takes place inside a famous painting,
 
 ## Experience
 
-| Where | What |
-|---|---|
-| **EY** | Joining the AI & Data team, May–Aug 2027. |
-| **Workleap** | Software Engineer Intern, May–Aug 2026. Shipped features and internal tooling in ShareGate Migrate, a product companies use to move their Microsoft 365 data. |
-| **ChessIQ** | Founder, 2026. Built and ran a chess game-review site that reached 100+ active users, including professional coaches. |
-| **Ubisoft** | Software Developer Intern, Sep–Dec 2025. Automated internal workflows and built web interfaces. |
-| **Anti-Microbe Distribution** | Co-founder, 2020–2025. Ran operations, contracts and customer relations alongside school. |
-| **Checkmark Tutorials** | Designed and recorded a full Applied Ordinary Differential Equations course, and answer students' questions directly. |
+| Where | What | When |
+|---|---|---|
+| **EY** | AI & Data team | May–Aug 2027 |
+| **Workleap** | Software Engineer Intern. Shipped features and internal tooling in ShareGate Migrate, a product companies use to move their Microsoft 365 data. | May–Aug 2026 |
+| **ChessIQ** | CEO & Founder. Built and ran a chess game-review platform that reached 100+ active users, including professional coaches. | Mar–Jul 2026 |
+| **Ubisoft** | Software Developer Intern. Automated internal workflows and built web interfaces. | Sep–Dec 2025 |
+| **Anti-Microbe Distribution** | Co-founder. Ran operations, contracts and customer relations alongside school. | 2020–2025 |
+| **Checkmark Tutorials** | Designed and recorded a full Applied Ordinary Differential Equations course, and answer students' questions directly. | — |
 
 ## What I build with
 
@@ -81,14 +80,10 @@ A 2D speedrun platformer where every level takes place inside a famous painting,
 
 ## Education
 
-| School | Program |
-|---|---|
-| **Concordia University** | B.Eng. Software Engineering (Co-op), 2024–2028 |
-| **Vanier College** | DCS in Computer Science & Mathematics, 2022–2024 |
-
-## Outside of code
-
-I played on Vanier's chess team, volunteer as a sound technician, and compete in martial arts. I speak English, French and Arabic, and I will happily talk about sushi for as long as you let me.
+| Where | What | When |
+|---|---|---|
+| **Concordia University** | B.Eng. Software Engineering (Co-op) | 2024–2028 |
+| **Vanier College** | DCS in Computer Science & Mathematics | 2022–2024 |
 
 <br>
 
