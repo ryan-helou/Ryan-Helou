@@ -16,15 +16,11 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/chessiq.png" alt="ChessIQ" width="100%">
-
 **ChessIQ**<br>
 A chess game-review platform with 250+ active users, including professional coaches, that shows players exactly where they lose points.
 
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/ryan-helou/Trifecta"><img src="assets/trifecta.png" alt="Trifecta" width="100%"></a>
 
 **[Trifecta](https://github.com/ryan-helou/Trifecta)**<br>
 A triathlon training app used by many athletes that builds and adapts a day-by-day plan for 55 real races.<br><sub><a href="https://amatri-production.up.railway.app">Live app</a> &nbsp;·&nbsp; <a href="https://github.com/ryan-helou/Trifecta">Code</a></sub>
@@ -34,15 +30,11 @@ A triathlon training app used by many athletes that builds and adapts a day-by-d
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ryan-helou/NeuralFight"><img src="assets/neuralfight.png" alt="NeuralFight" width="100%"></a>
-
 **[NeuralFight](https://github.com/ryan-helou/NeuralFight)**<br>
 Machine-learning models trained on every past UFC event that predict who wins each fight and how.
 
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/ryan-helou/MacMemoryMonitor"><img src="assets/mac-memory-monitor.png" alt="Mac Memory Monitor" width="100%"></a>
 
 **[Mac Memory Monitor](https://github.com/ryan-helou/MacMemoryMonitor)**<br>
 A native Mac menu bar app that shows why your Mac is slowing down and fixes it in one click.
