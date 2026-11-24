@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img alt="I build products people actually use." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=620&height=44&lines=I+build+products+people+actually+use.;ChessIQ%3A+100%2B+active+users%2C+pro+coaches+included.;Shipped+code+at+Ubisoft+and+Workleap.;Joining+EY's+AI+%26+Data+team%2C+summer+2027.">
+<img alt="I build products people actually use." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=620&height=44&lines=I+build+products+people+actually+use.;ChessIQ%3A+250%2B+active+users%2C+pro+coaches+included.;Shipped+code+at+Ubisoft+and+Workleap.;Joining+EY's+AI+%26+Data+team%2C+summer+2027.">
 
 <br>
 
@@ -19,7 +19,7 @@
 <td width="33%" valign="top">
 
 **ChessIQ**<br>
-A chess game-review platform I founded and ran: it imported every game from Chess.com and Lichess, ran it through Stockfish 18 and showed players where they lose points. 100+ active users, including professional coaches.
+A chess game-review platform I founded and ran: it imported every game from Chess.com and Lichess, ran it through Stockfish 18 and showed players where they lose points. 250+ active users, including professional coaches.
 
 </td>
 <td width="33%" valign="top">
@@ -44,7 +44,7 @@ Machine-learning models trained on every past UFC event that predict who wins ea
 | **EY** | Intern on the AI & Data team | May–Aug 2027 |
 | **Workleap** | Software Engineer Intern. Shipped features and internal tooling in ShareGate Migrate, a product companies use to move their Microsoft 365 data. | May–Aug 2026 |
 | **Checkmark Tutorials** | Designed and recorded a full Applied Ordinary Differential Equations course, and answered students' questions directly. | Jul 2025–Aug 2026 |
-| **ChessIQ** | CEO & Founder. Built and ran a chess game-review platform that reached 100+ active users, including professional coaches. | Mar–Jul 2026 |
+| **ChessIQ** | CEO & Founder. Built and ran a chess game-review platform that reached 250+ active users, including professional coaches. | Mar–Jul 2026 |
 | **Ubisoft** | Software Developer Intern. Automated internal workflows and built web interfaces. | Sep–Dec 2025 |
 | **Anti-Microbe Distribution** | Co-founder. Ran operations, contracts and customer relations alongside school. | 2020–2025 |
 
