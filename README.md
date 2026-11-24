@@ -43,10 +43,10 @@ Machine-learning models trained on every past UFC event that predict who wins ea
 |---|---|---|
 | **EY** | Intern on the AI & Data team | May–Aug 2027 |
 | **Workleap** | Software Engineer Intern. Shipped features and internal tooling in ShareGate Migrate, a product companies use to move their Microsoft 365 data. | May–Aug 2026 |
+| **Checkmark Tutorials** | Designed and recorded a full Applied Ordinary Differential Equations course, and answered students' questions directly. | Jul 2025–Aug 2026 |
 | **ChessIQ** | CEO & Founder. Built and ran a chess game-review platform that reached 100+ active users, including professional coaches. | Mar–Jul 2026 |
 | **Ubisoft** | Software Developer Intern. Automated internal workflows and built web interfaces. | Sep–Dec 2025 |
 | **Anti-Microbe Distribution** | Co-founder. Ran operations, contracts and customer relations alongside school. | 2020–2025 |
-| **Checkmark Tutorials** | Designed and recorded a full Applied Ordinary Differential Equations course, and answer students' questions directly. | — |
 
 ## What I build with
 
