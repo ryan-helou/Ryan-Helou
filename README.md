@@ -12,50 +12,26 @@
 
 <br>
 
-I'm a software engineer studying at Concordia. I build tools I want to use myself, ship them, and keep going until other people use them too. I like explaining the hard parts until they stop being hard.
-
 ## Featured builds
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **ChessIQ**<br>
 A chess game-review platform I founded and ran: it imported every game from Chess.com and Lichess, ran it through Stockfish 18 and showed players where they lose points. 100+ active users, including professional coaches.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[Trifecta](https://github.com/ryan-helou/Trifecta)**<br>
-A triathlon training app that builds and adapts a day-by-day plan for 55 real races, synced with Strava and Apple Health. Nearly 400 commits.
+A triathlon training app that builds and adapts a day-by-day plan for 55 real races, synced with Strava and Apple Health. Used by many athletes for their triathlon training.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[HaloLabs](https://github.com/ryan-helou/HaloLabs)**<br>
-Turns six guided face photos into a personal grooming plan with AI, never a rating. Paid plans through Stripe, and a background job queue built so a crash can never lose a request.
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[NeuralFight](https://github.com/ryan-helou/NeuralFight)**<br>
 Machine-learning models trained on every past UFC event that predict who wins each fight and how, then compare that with the betting odds.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[AEBC Attendance](https://github.com/ryan-helou/AEBC-Attendance)**<br>
-The check-in app a church uses every week: volunteers check people in live across devices, and leaders see who hasn't come back so someone can reach out.
-
-</td>
-<td width="50%" valign="top">
-
-**[Jobify](https://github.com/ryan-helou/Jobify)**<br>
-My own job-search engine: it scanned hundreds of company career pages 12 times a day, ranked every internship posting and sent the best ones to Slack and Telegram.
 
 </td>
 </tr>
