@@ -57,7 +57,7 @@ A native Mac menu bar app that shows why your Mac is slowing down and fixes it i
 ## What I build with
 
 <p align="center">
-  <img alt="Tools I use" src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,redis,docker,python,java,swift&perline=10">
+  <img alt="Tools I use" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,vite,postgres,redis,prisma,supabase,docker,githubactions,vercel,python,java,spring,swift,unity,cs,c,html,css,git&perline=9">
 </p>
 
 ## Education
